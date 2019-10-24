@@ -49,7 +49,7 @@ setup(
         'pyobjc-framework-Cocoa==5.1.1',
         'pyobjc-framework-Quartz==5.1.1',
         'pyobjc-framework-ApplicationServices==5.1.1',
-        'pyobjc-framework-CoreText==5.1.1',
+        'pyobjc-framework-CoreText==5.1.2',
         'future==0.17.1',
     ],
     classifiers=[
